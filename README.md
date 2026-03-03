@@ -149,15 +149,15 @@ d. Top piores tipos de culinárias
 
 # Top Insights da análise
 
-1. Domínio da Índia no Cenário Gastronômico: A Índia se destaca como o país com o maior número de restaurantes registrados, a maior quantidade de restaurantes 'gourmet', a maior diversidade de tipos de culinária, o maior número total de avaliações, e o maior número de restaurantes com entrega online e reservas. Isso a posiciona como um mercado extremamente vibrante e ativo para o Zomato.
+   1. Domínio da Índia no Cenário Gastronômico: A Índia se destaca como o país com o maior número de restaurantes registrados, a maior quantidade de restaurantes 'gourmet', a maior diversidade de tipos de culinária, o maior número total de avaliações, e o maior número de restaurantes com entrega online e reservas. Isso a posiciona como um mercado extremamente vibrante e ativo para o Zomato.
    
-2. Valor Agregado por Serviços Online e Reservas: Restaurantes que oferecem entrega online e aceitam reservas tendem a ter um desempenho superior. Aqueles com entrega online recebem, em média, significativamente mais avaliações, e os que aceitam reservas possuem um custo médio para duas pessoas consideravelmente mais alto, sugerindo que esses serviços são um diferencial para restaurantes de maior valor e popularidade.
+   2. Valor Agregado por Serviços Online e Reservas: Restaurantes que oferecem entrega online e aceitam reservas tendem a ter um desempenho superior. Aqueles com entrega online recebem, em média, significativamente mais avaliações, e os que aceitam reservas possuem um custo médio para duas pessoas consideravelmente mais alto, sugerindo que esses serviços são um diferencial para restaurantes de maior valor e popularidade.
    
-3. Culinárias de Alto Custo: Certos tipos de culinária, como a 'Modern Australian', apresentam um valor médio de prato para duas pessoas excepcionalmente elevado. Isso indica a existência de um nicho de mercado para experiências gastronômicas de luxo e alto custo.
+   3. Culinárias de Alto Custo: Certos tipos de culinária, como a 'Modern Australian', apresentam um valor médio de prato para duas pessoas excepcionalmente elevado. Isso indica a existência de um nicho de mercado para experiências gastronômicas de luxo e alto custo.
  
-4. Variação Regional de Avaliações e Custos: Há uma grande disparidade na qualidade média e nos custos entre diferentes regiões. Por exemplo, enquanto a Austrália possui uma das maiores notas médias agregadas, o Brasil apresenta uma das menores. Da mesma forma, cidades como Pasay City têm o maior valor médio para um prato para dois, enquanto Gangtok possui a maior concentração de restaurantes com notas muito baixas (abaixo de 2.5).
-
-5. Culinárias Altamente Avaliadas: A categoria de culinária 'Others' (Outros) possui a maior nota média agregada, o que pode indicar a popularidade de pratos menos convencionais ou altamente especializados. Além disso, culinárias específicas como Italiana e Americana abrigam vários restaurantes que alcançam a nota máxima (4.9), demonstrando excelência em diversas categorias.
+   4. Variação Regional de Avaliações e Custos: Há uma grande disparidade na qualidade média e nos custos entre diferentes regiões. Por exemplo, enquanto a Austrália possui uma das maiores notas médias agregadas, o Brasil apresenta uma das menores. Da mesma forma, cidades como Pasay City têm o maior valor médio para um prato para dois, enquanto Gangtok possui a maior concentração de restaurantes com notas muito baixas (abaixo de 2.5).
+   
+   5. Culinárias Altamente Avaliadas: A categoria de culinária 'Others' (Outros) possui a maior nota média agregada, o que pode indicar a popularidade de pratos menos convencionais ou altamente especializados. Além disso, culinárias específicas como Italiana e Americana abrigam vários restaurantes que alcançam a nota máxima (4.9), demonstrando excelência em diversas categorias.
 
 
 # Conclusão
