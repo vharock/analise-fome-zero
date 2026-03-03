@@ -154,10 +154,10 @@ d. Top piores tipos de culinárias
 2. Valor Agregado por Serviços Online e Reservas: Restaurantes que oferecem entrega online e aceitam reservas tendem a ter um desempenho superior. Aqueles com entrega online recebem, em média, significativamente mais avaliações, e os que aceitam reservas possuem um custo médio para duas pessoas consideravelmente mais alto, sugerindo que esses serviços são um diferencial para restaurantes de maior valor e popularidade.
    
 3. Culinárias de Alto Custo: Certos tipos de culinária, como a 'Modern Australian', apresentam um valor médio de prato para duas pessoas excepcionalmente elevado. Isso indica a existência de um nicho de mercado para experiências gastronômicas de luxo e alto custo.
-   
-4.Variação Regional de Avaliações e Custos: Há uma grande disparidade na qualidade média e nos custos entre diferentes regiões. Por exemplo, enquanto a Austrália possui uma das maiores notas médias agregadas, o Brasil apresenta uma das menores. Da mesma forma, cidades como Pasay City têm o maior valor médio para um prato para dois, enquanto Gangtok possui a maior concentração de restaurantes com notas muito baixas (abaixo de 2.5).
+ 
+4. Variação Regional de Avaliações e Custos: Há uma grande disparidade na qualidade média e nos custos entre diferentes regiões. Por exemplo, enquanto a Austrália possui uma das maiores notas médias agregadas, o Brasil apresenta uma das menores. Da mesma forma, cidades como Pasay City têm o maior valor médio para um prato para dois, enquanto Gangtok possui a maior concentração de restaurantes com notas muito baixas (abaixo de 2.5).
 
-5.Culinárias Altamente Avaliadas: A categoria de culinária 'Others' (Outros) possui a maior nota média agregada, o que pode indicar a popularidade de pratos menos convencionais ou altamente especializados. Além disso, culinárias específicas como Italiana e Americana abrigam vários restaurantes que alcançam a nota máxima (4.9), demonstrando excelência em diversas categorias.
+5. Culinárias Altamente Avaliadas: A categoria de culinária 'Others' (Outros) possui a maior nota média agregada, o que pode indicar a popularidade de pratos menos convencionais ou altamente especializados. Além disso, culinárias específicas como Italiana e Americana abrigam vários restaurantes que alcançam a nota máxima (4.9), demonstrando excelência em diversas categorias.
 
 
 # Conclusão
@@ -171,7 +171,7 @@ https://projetofomezerovictor.streamlit.app/
 
 # Próximos passos
 
-Caso continuasse trabalhando em cima desses dados poderia realizar novas analises como:
+Verificar junto ao CEO dos dados que foram gerados quais são realmente essenciais e quais podem ser descartados para termos um dashboard mais limpo, tabalharia na melhora da identidade visual que não foi muito explorada nesse momento, e caso continuasse trabalhando em cima desses dados poderia realizar novas análises como:
 
 1.Visualização Geoespacial de Restaurantes por Avaliação: Criar um mapa interativo utilizando Folium para visualizar a distribuição geográfica dos restaurantes, colorindo-os de acordo com sua aggregate_rating. Isso ajudará a identificar visualmente aglomerações de restaurantes bem avaliados e potenciais lacunas de mercado.
 
@@ -179,4 +179,6 @@ Caso continuasse trabalhando em cima desses dados poderia realizar novas analise
 
 3.Correlação entre Faixa de Preço e Avaliações/Votos: Analisar a relação entre a price_range (cheap, normal, expensive, gourmet) e as métricas de feedback do cliente (aggregate_rating e votes). Isso pode ser feito com gráficos de caixa ou barras para entender se restaurantes mais caros recebem mais votos ou melhores avaliações.
 
-4.Impacto dos Serviços Online nos Restaurantes: Visualizar a diferença nas médias de avaliações, número de votos e custo médio para dois entre restaurantes que oferecem has_online_delivery e has_table_booking versus aqueles que não oferecem. Isso pode destacar o valor desses serviços
+4.Impacto dos Serviços Online nos Restaurantes: Visualizar a diferença nas médias de avaliações, número de votos e custo médio para dois entre restaurantes que oferecem has_online_delivery e has_table_booking versus aqueles que não oferecem. Isso pode destacar o valor desses serviços.
+
+
