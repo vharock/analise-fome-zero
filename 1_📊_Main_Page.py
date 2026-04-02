@@ -97,6 +97,7 @@ df1 = df1.drop(labels=['switch_to_order_menu'], axis='columns')
 
 #Categorizar todos os restaurantes somente por um tipo de culinária
 df1['cuisines'] = df1['cuisines'].astype(str)
+df1 = df1.dropna(subset=['cuisines'])
 df1["cuisines"] = df1.loc[:, "cuisines"].apply(lambda x: x.split(",")[0])
 
 # Removendo os NaN da coluna Cuisines 
